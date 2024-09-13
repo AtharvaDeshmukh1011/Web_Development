@@ -1,0 +1,23 @@
+h1{
+    color :cadetblue;
+}
+p{
+    color :blue;
+    text-align: right;
+}
+button{
+    color :brown;
+    background-color: floralwhite;
+}
+body {
+    background-color:#ffff00;
+}
+#chotu{
+    color:beige;
+}
+.heading{
+    color: #ff0000;
+}
+#daddy{
+    background-color: #00ff00;
+}
